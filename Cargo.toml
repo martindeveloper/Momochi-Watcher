@@ -1,0 +1,9 @@
+[package]
+name = "momochi_tool_watcher"
+version = "0.1.0"
+authors = ["Martin Pernica"]
+
+[dependencies]
+clap = "~2.19.0"
+log = "^0.3.8"
+simplelog = "^0.4.2"
