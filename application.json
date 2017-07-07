@@ -1,0 +1,6 @@
+{
+  "executable_path": "./miner.exe",
+  "pooling_timeout": 10,
+  "currency": "ZCash",
+  "gpu": "Nvidia"
+}
